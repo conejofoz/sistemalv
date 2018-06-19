@@ -52,6 +52,4 @@
         <h1>Contenido del menu 12</h1>
     </template>
     
-
-
     @endsection
